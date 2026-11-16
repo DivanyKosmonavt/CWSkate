@@ -1,0 +1,9 @@
+{
+  "name": "CWSkate",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "A skateboard for Content Warning: flips, grabs, grinds, frontflips, combos and aura. Monster grinds, skate trains, a rocket booster, sponsor deals and viewer comments about your skating. EN/RU/FR/ZH. Everyone needs the mod.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
